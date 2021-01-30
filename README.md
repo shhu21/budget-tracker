@@ -6,12 +6,21 @@
 # Table Of Contents
 
 * [Description](#description)
+* [Framework](#framework)
 * [Installation](#installation)
 * [User's Guide](#users-guide)
 * [Testing](#testing)
 
 # Description
-A budget tracker that is compatible for desktop and offline abilities.
+A PWA budget tracker that is compatible for desktop and offline abilities.
+
+# Framework
+- Javascript
+- React.js
+- HTML
+- CSS
+- Express.js
+- Mongoose
 
 # Installation
 1. Clone the repository.
